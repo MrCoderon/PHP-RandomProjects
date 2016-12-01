@@ -1,2 +1,2 @@
 # PHP-RandomProjects
-<img src="Login-logout%2520system/assets/project-image.png">
+<img src="Login-logout-system/assets/img/project-image.png">
